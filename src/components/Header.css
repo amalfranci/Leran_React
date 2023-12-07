@@ -1,0 +1,17 @@
+.header_title{
+
+
+
+    color: rgb(223, 221, 224);
+    justify-content: center;
+    display: flex;
+}
+.spanitems>span{
+ margin: 2px;
+    color: wheat;
+    font-size: 20px;
+  margin-left: 200px;
+  cursor: pointer;
+}
+.app-header{
+    background-color: rgb(7, 9, 149);}

@@ -1,0 +1,16 @@
+.userdata{
+
+    display: flex;
+    justify-content: center;
+    cursor: pointer;
+}
+.usage-item{
+    flex-direction: column;
+
+}
+.userinform{
+    padding: 15px;
+}
+.count{
+    justify-content: c;
+}
